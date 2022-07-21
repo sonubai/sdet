@@ -8,6 +8,7 @@ public class svgTest {
 public void testing() {
 	System.out.println("testing software");
 	System.out.println("hellohello");
+	System.out.println("test all");
 }
 
  
