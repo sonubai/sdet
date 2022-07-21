@@ -7,7 +7,7 @@ public class svgTest {
 @Test
 public void testing() {
 	System.out.println("testing");
-	System.out.println("hello");
+	System.out.println("hellohello");
 }
 
  
